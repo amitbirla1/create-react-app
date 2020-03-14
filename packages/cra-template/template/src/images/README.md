@@ -1,0 +1,1 @@
+this section will be use to manage the images used in application.

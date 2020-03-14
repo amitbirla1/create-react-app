@@ -1,0 +1,1 @@
+this section will contains the main component of the App.

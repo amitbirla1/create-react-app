@@ -90,7 +90,7 @@ module.exports = function(
 ) {
   const appPackage = require(path.join(appPath, 'package.json'));
   const useYarn = fs.existsSync(path.join(appPath, 'yarn.lock'));
-
+  console.log(appPath);
   if (!templateName) {
     console.log('');
     console.error(
@@ -389,6 +389,7 @@ module.exports = function(
   }
   console.log();
   console.log('Happy hacking!');
+  console.log('Birla app');
 };
 
 function isReactInstalled(appPackage) {
