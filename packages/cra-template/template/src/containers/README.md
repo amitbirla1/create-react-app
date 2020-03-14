@@ -1,4 +1,2 @@
 this section will contains the higher componets classified as container. like
- -> Header
- -> BODY
- -> Footer
+ Entry point of the app or indepedent components.
