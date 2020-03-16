@@ -1,10 +1,11 @@
 {
-  "name": "cra-template-am",
+  "name": "cra-template-ameyo-app",
   "version": "1.0.3",
   "keywords": [
     "react",
     "create-react-app",
-    "template"
+    "template",
+    "ameyo-app-template"
   ],
   "description": "The base template for Create React App.",
   "main": "template.json",
